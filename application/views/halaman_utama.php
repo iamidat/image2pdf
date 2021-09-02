@@ -7,7 +7,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
     <div class="row py-sm-4 px-3 animate__animated animate__fadeInUp animate__faster" id="main">
       <div class="col-xl-6 col-lg-8 col-md-8 my-sm-4 my-5 mx-auto">
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minus voluptas omnis rem adipisci delectus dolor natus perspiciatis. Eos laboriosam quisquam dignissimos vel quos itaque optio nisi maiores dolores, doloremque officiis!</p>
-        <p class="fw-bold h2">Konversi vidio to jpg</p>
+        <p class="fw-bold h2">Konversi to jpg</p>
         <p class="fw-bold h2">Dengan Mudah & Aman</p>
         <p class="fw-bold lh-lg keterangan">Setelah dikonversi, file kamu <mark>langsung dihapus!</mark></p>
         <div class="my-sm-5 my-4 mx-md-0 animate__animated animate__fadeInUp" id="kotak_upload">
